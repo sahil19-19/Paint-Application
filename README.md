@@ -14,3 +14,6 @@ Using the "clear" button one can clear the screen and using the "save" button on
 The jpeg files gets updated once you press "save" again.
 
 By pressing the "car" button a car appears on the screen that one can move left and right using the left and right key.
+
+# User Interface
+![image](https://user-images.githubusercontent.com/79751075/232064716-14a93241-c530-49c3-8e59-200eac317d24.png)
