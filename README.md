@@ -17,3 +17,6 @@ By pressing the "car" button a car appears on the screen that one can move left 
 
 # User Interface
 ![image](https://user-images.githubusercontent.com/79751075/232064716-14a93241-c530-49c3-8e59-200eac317d24.png)
+
+# Example project
+![image](https://user-images.githubusercontent.com/79751075/234507074-fc2baba8-d54e-4c54-a902-caef7b9b244a.png)
