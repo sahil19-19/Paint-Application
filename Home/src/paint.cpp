@@ -156,11 +156,13 @@ void beginDrawing(int xcl, int ycl, int clr, char cmd)
     {
         setfillstyle(SOLID_FILL, clr);
         int oc = getpixel(xcl, ycl);
-        floodfill(xcl, ycl, clr);
-        int x1, y1;
+        // floodfill(xcl, ycl, clr);
 
-        setfillstyle(SOLID_FILL, 8);
-        makeWindow();
+        // a custom flood fill function so that the user can select the colour of the boundary as well as the fill
+        cFloodFill(xcl, ycl, clr, oc);
+
+        // setfillstyle(SOLID_FILL, 8);
+        // makeWindow();
     }
     clearmouseclick(WM_LBUTTONDOWN);
 }
