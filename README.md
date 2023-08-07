@@ -20,3 +20,6 @@ By pressing the "car" button a car appears on the screen that one can move left 
 
 # Example project
 ![image](https://user-images.githubusercontent.com/79751075/234507074-fc2baba8-d54e-4c54-a902-caef7b9b244a.png)
+
+# Download
+Download: [here](https://github.com/sahil19-19/Paint-Application/releases)
